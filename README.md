@@ -2,6 +2,8 @@
 
 [NSIS](http://nsis.sourceforge.net) Language Files (NSF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/)
 
+![Screenshot](https://raw.github.com/idleberg/NSIS-Language-File-Sublime-Text/master/images/screenshot.png)
+
 ## Installation
 
 ### Package Control
