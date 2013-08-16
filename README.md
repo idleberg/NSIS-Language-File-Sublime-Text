@@ -8,7 +8,7 @@
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Select *NSIS Language File Syntax Definitions* and press `Enter`
+3. Select *NSIS Language File Syntax* and press `Enter`
 
 ### Manual installation
 
