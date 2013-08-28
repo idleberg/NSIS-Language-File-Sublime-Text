@@ -4,6 +4,8 @@
 
 ![Screenshot](https://raw.github.com/idleberg/NSIS-Language-File-Sublime-Text/master/images/screenshot.png)
 
+*Screenshot of NLF file in SublimeText with [Paraíso theme](https://github.com/idleberg/Paraiso.tmTheme)*
+
 ## Installation
 
 ### Package Control
