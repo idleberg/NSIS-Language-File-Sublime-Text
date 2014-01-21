@@ -1,6 +1,6 @@
 # NSIS Language File for Sublime Text
 
-[NSIS](http://nsis.sourceforge.net) Language Files (NSF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/)
+[NSIS](http://nsis.sourceforge.net) Language Files (NLF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/)
 
 ![Screenshot](https://raw.github.com/idleberg/NSIS-Language-File-Sublime-Text/master/images/screenshot.png)
 
