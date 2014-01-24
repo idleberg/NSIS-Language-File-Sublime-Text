@@ -192,6 +192,6 @@ ${94:M}
 # ^Giga
 ${95:G}
 ]]></content>
-	<tabTrigger>scaffold_NSIS Language File (Spanish)</tabTrigger>
+	<tabTrigger>scaffold__NSIS Language File (Spanish)</tabTrigger>
 	<scope>source.nlf</scope>
 </snippet>
