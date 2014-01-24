@@ -24,6 +24,12 @@
 1. Download the files using the GitHub .zip download option
 2. Unzip the files to your Sublime Text `Packages/User` directory
 
+## Usage
+
+### Scaffolding Snippets
+
+As a translator, you can scaffold a language file based upon English, French or Spanish translations. In an empty NSIS Language File, you could type `scaffold_NLF` and choose a template of your liking. To jump between fields, use `Tab`/`Shift+Tab`.
+
 ## License
 
 The MIT License (MIT)
