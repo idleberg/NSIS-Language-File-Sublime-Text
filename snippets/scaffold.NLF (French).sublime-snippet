@@ -114,9 +114,9 @@ ${54:Ceci désinstallera \$(^NameDA) du dossier suivant. Pour désinstaller d'un
 # ^UnDirBrowseText
 ${56:Sélectionnez le dossier de désinstallation pour \$(^NameDA)}:
 # ^SpaceAvailable
-"${57:Espace disponible}: "
+"${57:Espace disponible} : "
 # ^SpaceRequired
-"${58:Espace requis}: "
+"${58:Espace requis} : "
 # ^UninstallingText
 ${59:Ce programme désinstallera \$(^NameDA) de votre ordinateur. \$_CLICK}
 # ^UninstallingSubText
@@ -126,59 +126,59 @@ ${61:Erreur lors de l'ouverture du fichier en écriture: \r\n\t"\$0"\r\nAppuyez 
 # ^FileError_NoIgnore
 ${62:Erreur lors de l'ouverture du fichier en écriture: \r\n\t"\$0"\r\nAppuyez sur Réessayez pour re-écrire le fichier, ou\r\nAnnuler pour abandonner l'installation}
 # ^CantWrite
-"${63:Impossible d'écrire}: "
+"${63:Impossible d'écrire} : "
 # ^CopyFailed
 ${64:Échec de la copie}
 # ^CopyTo
 "${65:Copier vers} "
 # ^Registering
-"${66:Enregistrement}: "
+"${66:Enregistrement} : "
 # ^Unregistering
-"${67:Suppression de l'enregistrement}: "
+"${67:Suppression de l'enregistrement} : "
 # ^SymbolNotFound
-"${68:Impossible de trouver un symbole}: "
+"${68:Impossible de trouver un symbole} : "
 # ^CouldNotLoad
-"${69:Impossible de charger}: "
+"${69:Impossible de charger} : "
 # ^CreateFolder
-"${70:Création du dossier}: "
+"${70:Création du dossier} : "
 # ^CreateShortcut
-"${71:Création du raccourci}: "
+"${71:Création du raccourci} : "
 # ^CreatedUninstaller
-"${72:Création de la désinstallation}: "
+"${72:Création de la désinstallation} : "
 # ^Delete
-"${73:Suppression}: "
+"${73:Suppression} : "
 # ^DeleteOnReboot
-"${74:Suppression au redémarrage}: "
+"${74:Suppression au redémarrage} : "
 # ^ErrorCreatingShortcut
-"${75:Erreur lors de la création du raccourci}: "
+"${75:Erreur lors de la création du raccourci} : "
 # ^ErrorCreating
-"${76:Erreur de la création}: "
+"${76:Erreur de la création} : "
 # ^ErrorDecompressing
-${77:Erreur lors de la décompression des données! Installation corrompue?}
+${77:Erreur lors de la décompression des données ! Installation corrompue ?}
 # ^ErrorRegistering
 ${78:Erreur lors de l'enregistrement de la DLL}
 # ^ExecShell
-"${79:ExecShell}: "
+"${79:ExecShell} : "
 # ^Exec
-"${80:Exécution}: "
+"${80:Exécution} : "
 # ^Extract
-"${81:Extraction}: "
+"${81:Extraction} : "
 # ^ErrorWriting
 "${82:Extraction: erreur d'écriture du fichier} "
 # ^InvalidOpcode
 ${83:Installation corrompue: opcode incorrect}
 # ^NoOLE
-"${84:Pas de OLE pour}: "
+"${84:Pas de OLE pour} : "
 # ^OutputFolder
-"${85:Destination}: "
+"${85:Destination} : "
 # ^RemoveFolder
-"${86:Suppression du dossier}: "
+"${86:Suppression du dossier} : "
 # ^RenameOnReboot
-"${87:Renommer au redémarrage}: "
+"${87:Renommer au redémarrage} : "
 # ^Rename
-"${88:Renommer}: "
+"${88:Renommer} : "
 # ^Skipped
-"${89:Passé}: "
+"${89:Passé} : "
 # ^CopyDetails
 ${90:Copier les Détails dans le Presse-papier}
 # ^LogInstall
