@@ -57,3 +57,7 @@ THE SOFTWARE.
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/NSIS-Language-File-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/nsis-language-file-sublime-text/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
