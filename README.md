@@ -2,7 +2,7 @@
 
 [NSIS](http://nsis.sourceforge.net) Language Files (NLF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/)
 
-![Screenshot](https://raw.github.com/idleberg/NSIS-Language-File-Sublime-Text/master/images/screenshot.png)
+![Screenshot](https://raw.github.com/idleberg/NSIS-Language-File-Sublime-Text/master/screenshot.png)
 
 *Screenshot of NLF file in Sublime Text with [Paraíso theme](https://github.com/idleberg/Paraiso.tmTheme)*
 
@@ -57,7 +57,4 @@ THE SOFTWARE.
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/NSIS-Language-File-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/nsis-language-file-sublime-text/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
