@@ -1,0 +1,22 @@
+Important Notice
+----------------
+
+Please note that this package is meant for translators of NSIS and not required
+to create installer scripts!
+
+If you intend to write NSIS scripts, you can install the following packages via
+Package Control:
+
+    “NSIS”, a syntax highlighter
+    https://github.com/SublimeText/NSIS
+
+    “NSIS Completions & Snippets”
+    https://github.com/idleberg/NSIS-Sublime-Text
+
+    “NSIS Plug-in Completions”
+    https://github.com/idleberg/NSIS-Sublime-Text-Addons
+
+    “Drunken NSIS”, alternative Completions
+    https://github.com/idleberg/Drunken-NSIS
+
+Otherwise, I hope you find this package useful to translate NSIS!
