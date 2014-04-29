@@ -1,6 +1,3 @@
-Important Notice
-----------------
-
 Please note that this package is meant for translators of NSIS and not required
 to create installer scripts!
 
