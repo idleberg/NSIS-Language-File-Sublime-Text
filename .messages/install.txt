@@ -10,10 +10,10 @@ Package Control:
     “NSIS Completions & Snippets”
     https://github.com/idleberg/NSIS-Sublime-Text
 
-    “NSIS Plug-in Completions”
+    “NSIS Plug-in Completions”, completions for third-party plug-ins
     https://github.com/idleberg/NSIS-Sublime-Text-Addons
 
-    “Drunken NSIS”, alternative completions
+    “Drunken NSIS”, fuzzy NSIS completions
     https://github.com/idleberg/Drunken-NSIS
 
 Otherwise, I hope you find this package useful to translate NSIS!
