@@ -1,6 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/idleberg/NSIS-Language-File-Sublime-Text.png)](http://travis-ci.org/idleberg/NSIS-Language-File-Sublime-Text)
-
-# NSIS Language File for Sublime Text
+# NLF for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/NSIS-Language-File-Sublime-Text.png)](http://travis-ci.org/idleberg/NSIS-Language-File-Sublime-Text)
 
 [NSIS](http://nsis.sourceforge.net) Language Files (NLF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/). Please note that this package is only meant for translators of NSIS and *not required* to create installer scripts!
 
