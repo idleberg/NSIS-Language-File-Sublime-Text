@@ -2,6 +2,7 @@
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Travis](https://img.shields.io/travis/idleberg/NSIS-Language-File-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/NSIS-Language-File-Sublime-Text)
+[![Gitter](https://img.shields.io/badge/chat-Gitter-ff69b4.svg?style=flat-square)](https://gitter.im/NSIS-Dev)
 
 [NSIS](http://nsis.sourceforge.net) Language Files (NLF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/). Please note that this package is only meant for translators of NSIS and *not required* to create installer scripts!
 
