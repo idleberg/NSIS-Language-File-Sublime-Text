@@ -4,7 +4,7 @@
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/NSIS%20for%20Translators.svg?style=flat-square)](https://packagecontrol.io/packages/NSIS%20for%20Translators)
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-nlf.svg?style=flat-square)](https://github.com/idleberg/sublime-nlf/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-nlf.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-nlf)
-[![Gitter](https://img.shields.io/badge/chat-Gitter-ff69b4.svg?style=flat-square)](https://gitter.im/NSIS-Dev/SublimeText)
+[![Gitter](https://img.shields.io/badge/chat-Gitter-ed1965.svg?style=flat-square)](https://gitter.im/NSIS-Dev/SublimeText)
 
 [NSIS](http://nsis.sourceforge.net) Language Files (NLF) syntax definitions and snippets for [Sublime Text](http://www.sublimetext.com/). Please note that this package is only meant for translators of NSIS and *not required* to create installer scripts!
 
