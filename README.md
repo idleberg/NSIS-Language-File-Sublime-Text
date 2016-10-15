@@ -23,7 +23,7 @@
 ### Using Git
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/sublime-nlf.git 'NSIS Language File Syntax'`
+2. Clone repository `git clone https://github.com/idleberg/sublime-nlf.git 'NSIS for Translators'`
 
 ### Manual installation
 
