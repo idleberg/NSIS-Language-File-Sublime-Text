@@ -20,7 +20,7 @@
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/NSIS-Language-File-Sublime-Text.git 'NSIS Language File Syntax'`
+2. Clone repository `git clone --branch subl2 https://github.com/idleberg/NSIS-Language-File-Sublime-Text.git 'NSIS Language File Syntax'`
 
 ### Manual installation
 
