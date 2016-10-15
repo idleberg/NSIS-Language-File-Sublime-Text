@@ -17,10 +17,10 @@
 2. Choose “*Install Package*” from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
 3. Type “*NSIS Language File Syntax*” and press <kbd>Enter</kbd>
 
-### GitHub
+### Using Git
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone --branch subl2 https://github.com/idleberg/NSIS-Language-File-Sublime-Text.git 'NSIS Language File Syntax'`
+2. Clone repository `git clone --branch subl2 https://github.com/idleberg/NSIS-Language-File-Sublime-Text.git 'NSIS for Translators'`
 
 ### Manual installation
 
