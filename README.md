@@ -39,8 +39,3 @@ As a translator, you can scaffold a language file based upon English, French or 
 ## License
 
 This work is licensed under the [The MIT License](LICENSE).
-
-## Donate
-
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-nlf) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
